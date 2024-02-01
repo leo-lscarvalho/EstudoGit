@@ -1,0 +1,2 @@
+Estudo sobre Git.
+Sourcetree utilizado como Git Client.
